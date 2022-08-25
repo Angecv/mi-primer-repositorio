@@ -21,10 +21,11 @@ Nam bibendum volutpat ultricies. Quisque ac pellentesque erat. Donec sit amet to
 
 Sed vel augue tempor, congue tellus vitae, ultrices lorem. Proin eros leo, ullamcorper a felis condimentum, cursus consectetur nunc. Aliquam semper, metus quis pulvinar suscipit, ligula arcu rutrum ante, vitae porttitor lectus lacus quis lorem. Mauris scelerisque nisl viverra, dapibus lorem a, ullamcorper turpis. Aenean nec augue finibus, posuere neque pretium, maximus lacus. Donec tincidunt felis vel eleifend posuere. Phasellus dictum sapien diam, vel posuere augue lacinia ac. Cras venenatis justo enim, eu facilisis erat lobortis a. Curabitur sit amet tellus ligula. Ut dignissim placerat magna, ut suscipit mauris hendrerit at. Vestibulum pellentesque auctor massa vel vehicula. Nunc id imperdiet elit.
 
-PONER IMAGEN CON ENLACE
+PONER IMAGEN CON ENLACE (en servidor remoto)
 
 ![este texto no se va a ver](https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/kraken_generic_max_width_720/public/Que_debes_saber_antes_de_adoptar_un_gatito.jpg?itok=qhpqur_t)
 
 
 PONER IMAGEN INSERTADA
 
+![este texto no se va a ver, es texto descriptivo para ciegos](gatito.webp "esto es una etiqueta descriptiva de la img")
